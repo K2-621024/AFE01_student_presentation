@@ -27,6 +27,7 @@ The project will be organized into the following directory structure (subject to
 ```
 AFE01_student_presentation/
 ├── data/
+│ ├── dummy_data/
 │ ├── raw_data/
 │ ├── processed_data/
 │ └── simulation_result/
