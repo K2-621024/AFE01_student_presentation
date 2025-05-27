@@ -31,6 +31,7 @@ AFE01_student_presentation/
 │ ├── processed_data/
 │ └── simulation_result/
 ├── src/
+│ ├── DummyDataGeneration.py/
 │ ├── StockPriceGeneration_via_MC.py/
 │ ├── StockPriceGeneration_via_QMC.py/
 │ └── FairValueCalculation.py/
