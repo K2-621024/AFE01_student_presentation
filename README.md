@@ -24,6 +24,7 @@ We aim to compare two numerical methods for pricing this product:
 
 The project will be organized into the following directory structure (subject to updates):
 
+```
 AFE01_student_presentation/
 │
 ├── data_raw/ # Raw input data
@@ -31,7 +32,7 @@ AFE01_student_presentation/
 ├── results/ # Output data from simulations
 ├── src/ # Source code (Python scripts)
 └── README.md # Project documentation (this file)
-
+```
 
 ---
 
