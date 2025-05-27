@@ -1,4 +1,4 @@
-# AFE01 Student Presentation - Advanced Financial Engineering
+# AFE01 Student Presentation
 
 ## 📌 Overview
 
@@ -26,12 +26,15 @@ The project will be organized into the following directory structure (subject to
 
 ```
 AFE01_student_presentation/
-│
-├── data_raw/ # Raw input data
-├── data_processed/ # Cleaned and processed data
-├── results/ # Output data from simulations
-├── src/ # Source code (Python scripts)
-└── README.md # Project documentation (this file)
+├── data/
+│ ├── raw_data/
+│ ├── processed_data/
+│ └── simulation_result/
+├── src/
+│ ├── StockPriceGeneration_via_MC.py/
+│ ├── StockPriceGeneration_via_QMC.py/
+│ └── FairValueCalculation.py/
+└── README.md
 ```
 
 ---
